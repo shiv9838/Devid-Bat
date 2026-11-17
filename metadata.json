@@ -1,0 +1,8 @@
+{
+  "name": "SpunSilly",
+  "description": "Curated men's t-shirt affiliate storefront where every product card links directly to the partner retailer with zero intermediate blog posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
